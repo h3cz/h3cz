@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://h3cz.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-h3cz.github.io-8B7DA8?style=for-the-badge"></a>
   <a href="https://hecz.dev"><img alt="Site" src="https://img.shields.io/badge/site-hecz.dev-8B7DA8?style=for-the-badge"></a>
   <a href="https://pulse-public.vercel.app"><img alt="Pulse demo" src="https://img.shields.io/badge/demo-pulse-6ee7b7?style=for-the-badge"></a>
   <a href="https://github.com/h3cz/cybersecurity-labs"><img alt="Cybersecurity labs" src="https://img.shields.io/badge/cybersecurity-labs-f2f2f2?style=for-the-badge"></a>
@@ -61,6 +62,7 @@ The goal is not to look busy. The goal is to make the work easy to inspect.
 ## Links
 
 - Site: [hecz.dev](https://hecz.dev)
+- GitHub Pages: [h3cz.github.io](https://h3cz.github.io)
 - Pulse: [github.com/h3cz/pulse](https://github.com/h3cz/pulse)
 - Tag: [github.com/h3cz/tag](https://github.com/h3cz/tag)
 - Cybersecurity Labs: [github.com/h3cz/cybersecurity-labs](https://github.com/h3cz/cybersecurity-labs)
