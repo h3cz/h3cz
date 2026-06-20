@@ -14,7 +14,8 @@ Browser focus and sleep audio tuned for open-ear and bone-conduction headphones.
 - PWA support, media-session controls, reduced-motion handling
 - Unit tests for frequency and EQ math
 
-Repo: [h3cz/pulse](https://github.com/h3cz/pulse)
+Repo: [h3cz/pulse](https://github.com/h3cz/pulse)  
+Live demo: [pulse-public.vercel.app](https://pulse-public.vercel.app)
 
 ### Tag
 Self-hostable multi-model AI chat product in progress.
@@ -45,6 +46,8 @@ I am currently studying cybersecurity and using GitHub to document the practical
 - dashboards for visibility and incident-response style workflows
 - AI-assisted development with careful review and verification
 
+Repo: [h3cz/cybersecurity-labs](https://github.com/h3cz/cybersecurity-labs)
+
 ## Current Stack
 
 TypeScript, React, Vite, Tailwind, Supabase, PostgreSQL, Edge Functions, Vercel, Node.js, GitHub Actions, Web Audio API.
@@ -52,7 +55,7 @@ TypeScript, React, Vite, Tailwind, Supabase, PostgreSQL, Edge Functions, Vercel,
 ## What I Am Building Next
 
 - Public `tag` repo with clean self-hosting docs
-- `cybersecurity-labs` repo for school labs, notes, and defensive scripts
+- more school lab notes, writeups, and defensive scripts
 - Sanitized Hecz HQ case study
 - More small tools that are easy to run, read, and verify
 
@@ -60,4 +63,5 @@ TypeScript, React, Vite, Tailwind, Supabase, PostgreSQL, Edge Functions, Vercel,
 
 - GitHub: [github.com/h3cz](https://github.com/h3cz)
 - Pulse: [github.com/h3cz/pulse](https://github.com/h3cz/pulse)
+- Cybersecurity Labs: [github.com/h3cz/cybersecurity-labs](https://github.com/h3cz/cybersecurity-labs)
 - Site: [hecz.dev](https://hecz.dev)
