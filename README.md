@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Hecz cybersecurity portfolio banner" width="100%" />
+  <img src="./assets/profile-hero-higgsfield.png" alt="Hecz cybersecurity workstation banner" width="100%" />
 </p>
 
 <p align="center">
