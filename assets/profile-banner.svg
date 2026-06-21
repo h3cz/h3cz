@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
   <title id="title">h3cz GitHub profile banner</title>
-  <desc id="desc">A dark cyber portfolio banner with terminal panels, circuit traces, soft violet and green lighting, and JR Lopez profile text.</desc>
+  <desc id="desc">A dark cyber portfolio banner with terminal panels, circuit traces, soft violet and green lighting, and Hecz profile text.</desc>
   <defs>
     <radialGradient id="violetGlow" cx="22%" cy="38%" r="75%">
       <stop offset="0%" stop-color="#b7a7ff" stop-opacity="0.45"/>
@@ -68,7 +68,7 @@
     <text x="122" y="56" fill="#c8d0e0" font-family="ui-monospace, Consolas, monospace" font-size="14">h3cz / README.md</text>
 
     <text x="32" y="126" fill="#8c95a8" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="3">CYBERSECURITY STUDENT + BUILDER</text>
-    <text x="32" y="197" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800">JR Lopez</text>
+    <text x="32" y="197" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800">Hecz</text>
     <text x="32" y="252" fill="#d8d2ef" font-family="Georgia, serif" font-size="34" font-style="italic">practical tools, secure systems, and human-first tech</text>
     <rect x="32" y="286" width="275" height="5" rx="3" fill="url(#accent)"/>
     <text x="32" y="335" fill="#cbd5e1" font-family="ui-monospace, Consolas, monospace" font-size="17">Per Scholas cyber track  |  AI apps  |  labs  |  client systems</text>

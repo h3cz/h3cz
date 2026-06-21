@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="JR Lopez / h3cz cybersecurity portfolio banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Hecz cybersecurity portfolio banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
   <a href="https://github.com/h3cz/pulse"><img alt="Pulse" src="https://img.shields.io/badge/pulse-open_source-f8fafc?style=for-the-badge"></a>
 </p>
 
-<h1 align="center">Hi, I'm JR Lopez</h1>
+<h1 align="center">I'm Hecz</h1>
 
 <p align="center">
-  Cybersecurity student at Per Scholas, builder of practical web tools, and lifelong tinkerer.
+  Cybersecurity student at Per Scholas, builder of practical web tools, and lifelong systems tinkerer.
   I like turning messy real-world workflows into systems people can actually use.
 </p>
 
