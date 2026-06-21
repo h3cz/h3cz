@@ -1,68 +1,81 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="JR Lopez / h3cz, cybersecurity portfolio banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="JR Lopez / h3cz cybersecurity portfolio banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://h3cz.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-h3cz.github.io-8B7DA8?style=for-the-badge"></a>
-  <a href="https://hecz.dev"><img alt="Site" src="https://img.shields.io/badge/site-hecz.dev-8B7DA8?style=for-the-badge"></a>
-  <a href="https://pulse-public.vercel.app"><img alt="Pulse demo" src="https://img.shields.io/badge/demo-pulse-6ee7b7?style=for-the-badge"></a>
-  <a href="https://github.com/h3cz/cybersecurity-labs"><img alt="Cybersecurity labs" src="https://img.shields.io/badge/cybersecurity-labs-f2f2f2?style=for-the-badge"></a>
+  <a href="https://hecz.dev"><img alt="hecz.dev" src="https://img.shields.io/badge/hecz.dev-live_site-b7a7ff?style=for-the-badge"></a>
+  <a href="https://h3cz.github.io"><img alt="GitHub Pages" src="https://img.shields.io/badge/github_pages-portfolio-64f4bd?style=for-the-badge"></a>
+  <a href="https://github.com/h3cz/cybersecurity-labs"><img alt="Cybersecurity Labs" src="https://img.shields.io/badge/cybersecurity-labs-7dd3fc?style=for-the-badge"></a>
+  <a href="https://github.com/h3cz/pulse"><img alt="Pulse" src="https://img.shields.io/badge/pulse-open_source-f8fafc?style=for-the-badge"></a>
 </p>
 
-## Hey, I'm JR
+<h1 align="center">Hi, I'm JR Lopez</h1>
 
-I'm a cybersecurity student at Per Scholas, moving from client operations, sales leadership, and support into secure systems, automation, and practical security tooling.
+<p align="center">
+  Cybersecurity student at Per Scholas, builder of practical web tools, and lifelong tinkerer.
+  I like turning messy real-world workflows into systems people can actually use.
+</p>
 
-I like projects that are useful first: tools I can run, inspect, self-host, and explain. My background taught me how to communicate under pressure, document clearly, support real users, and keep work moving when the system is messy. Now I am pairing that with the technical side I have always been drawn to: access, permissions, networks, web apps, and what is happening underneath the interface.
+---
 
-## Featured Projects
+## About Me
+
+I am moving from client operations, support, and sales leadership into cybersecurity and secure systems. That shift feels natural to me: I have been jailbreaking, rooting, and poking at phones since I was 12, trying to understand what was happening underneath the interface.
+
+Right now I am focused on building a public body of work that shows how I think: clear READMEs, safe demos, practical tooling, lab notes, and projects that connect security with real users.
+
+```text
+current path:  Per Scholas cybersecurity track
+background:    client ops, sales leadership, support, automation
+building:      secure apps, AI tools, dashboards, cybersecurity labs
+interests:     web security, Linux, networking, auth, privacy, useful automation
+```
+
+## Featured Work
 
 | Project | What It Shows | Links |
 |---|---|---|
-| **Pulse** | Browser focus and sleep audio built with Web Audio, React, TypeScript, PWA support, media controls, and tested EQ/frequency math. | [Repo](https://github.com/h3cz/pulse) · [Live Demo](https://pulse-public.vercel.app) |
+| **Pulse** | Open-source focus and sleep audio app with Web Audio, React, TypeScript, PWA support, media controls, and tested audio math. | [Repo](https://github.com/h3cz/pulse) · [Demo](https://h3cz.github.io/pulse/) |
 | **Tag** | Self-hostable multi-model AI chat with BYOK architecture, Supabase Edge Functions, auth, memory, and public security docs. | [Repo](https://github.com/h3cz/tag) · [Hosted](https://hecz.dev/chat) |
-| **Cybersecurity Labs** | School notes, defensive lab writeups, templates, Linux/networking practice, and safe public documentation habits. | [Repo](https://github.com/h3cz/cybersecurity-labs) |
-| **Hecz HQ** | Security and workspace dashboard case study in progress: tasks, chat, GitHub activity, integrations, secrets visibility, and ops workflows. | Case study coming next |
-
-## Current Focus
-
-```text
-learning:  cybersecurity fundamentals, Linux, networking, web security
-building:  secure web apps, client systems, AI tools, defensive dashboards
-writing:   lab notes, case studies, field notes from what I ship
-```
+| **Cybersecurity Labs** | Public learning space for networking, Linux, defensive notes, templates, and safe documentation habits. | [Repo](https://github.com/h3cz/cybersecurity-labs) |
+| **Tandas** | Family savings circle app. The real app stays hosted on Vercel; the public GitHub Pages version is a static showcase mirror. | [Mirror](https://h3cz.github.io/tandas/) |
+| **Hecz HQ** | Personal platform and operating system for projects, writing, AI tools, and security-minded workflows. | [Site](https://hecz.dev) |
 
 ## Toolkit
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript">
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript">
+  <img alt="React" src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux">
 </p>
 
-## Why This Page Exists
+## What I Am Practicing
 
-I am turning my work into a cleaner public portfolio: focused repos, useful READMEs, live demos, security notes, and projects that show how I think.
+| Area | Current Rep |
+|---|---|
+| Cybersecurity fundamentals | Per Scholas coursework, lab notes, Linux/networking practice |
+| Secure app building | Auth, RLS, edge functions, secrets hygiene, safer public docs |
+| Communication | Case studies, README polish, client-ready summaries |
+| Automation | GitHub Actions, deployment workflows, AI-assisted tooling |
 
-The goal is not to look busy. The goal is to make the work easy to inspect.
+## Now
 
-## Next
+- Building out `cybersecurity-labs` with cleaner writeups and safe screenshots
+- Keeping Pulse and other public tools readable, useful, and easy to inspect
+- Turning real projects into short portfolio case studies
+- Learning the security side deeply enough to explain it simply
 
-- Add real lab writeups to `cybersecurity-labs`
-- Add screenshots/GIFs to the older public repos
-- Publish the Hecz HQ security/workspace dashboard case study
-- Keep building tools that are small enough to understand and real enough to use
+## Connect
 
-## Links
-
-- Site: [hecz.dev](https://hecz.dev)
+- Portfolio: [hecz.dev](https://hecz.dev)
 - GitHub Pages: [h3cz.github.io](https://h3cz.github.io)
 - Pulse: [github.com/h3cz/pulse](https://github.com/h3cz/pulse)
-- Tag: [github.com/h3cz/tag](https://github.com/h3cz/tag)
 - Cybersecurity Labs: [github.com/h3cz/cybersecurity-labs](https://github.com/h3cz/cybersecurity-labs)
+- Tag: [github.com/h3cz/tag](https://github.com/h3cz/tag)
