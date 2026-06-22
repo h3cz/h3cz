@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="./assets/profile-hero-higgsfield.png" alt="Hecz cybersecurity workstation banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Hecz — practical tools, secure systems, human-first tech" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://hecz.dev"><img alt="hecz.dev" src="https://img.shields.io/badge/hecz.dev-live_site-b7a7ff?style=for-the-badge"></a>
-  <a href="https://h3cz.github.io"><img alt="GitHub Pages" src="https://img.shields.io/badge/github_pages-portfolio-64f4bd?style=for-the-badge"></a>
-  <a href="https://github.com/h3cz/cybersecurity-labs"><img alt="Cybersecurity Labs" src="https://img.shields.io/badge/cybersecurity-labs-7dd3fc?style=for-the-badge"></a>
-  <a href="https://github.com/h3cz/pulse"><img alt="Pulse" src="https://img.shields.io/badge/pulse-open_source-f8fafc?style=for-the-badge"></a>
+  <a href="https://hecz.dev"><img alt="hecz.dev" src="https://img.shields.io/badge/hecz.dev-live_site-8B7DA8?style=for-the-badge&labelColor=1D1C25"></a>
+  <a href="https://h3cz.github.io"><img alt="GitHub Pages" src="https://img.shields.io/badge/github_pages-portfolio-8B7DA8?style=for-the-badge&labelColor=1D1C25"></a>
+  <a href="https://github.com/h3cz/cybersecurity-labs"><img alt="Cybersecurity Labs" src="https://img.shields.io/badge/cybersecurity-labs-8B7DA8?style=for-the-badge&labelColor=1D1C25"></a>
+  <a href="https://github.com/h3cz/pulse"><img alt="Pulse" src="https://img.shields.io/badge/pulse-open_source-8B7DA8?style=for-the-badge&labelColor=1D1C25"></a>
 </p>
 
 <h1 align="center">I'm Hecz</h1>
 
 <p align="center">
-  Cybersecurity student at Per Scholas, builder of practical web tools, and lifelong systems tinkerer.
-  I like turning messy real-world workflows into systems people can actually use.
+  <em>Practical tools, secure systems, and human-first tech.</em><br>
+  Chicago builder and cybersecurity student. I turn messy real-world workflows into systems people can actually use.
 </p>
 
 ---
@@ -44,16 +44,16 @@ interests:     web security, Linux, networking, auth, privacy, useful automation
 ## Toolkit
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript">
-  <img alt="React" src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1D1C25?style=flat-square&logo=typescript&logoColor=B0A3C4">
+  <img alt="React" src="https://img.shields.io/badge/React-1D1C25?style=flat-square&logo=react&logoColor=B0A3C4">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1D1C25?style=flat-square&logo=nextdotjs&logoColor=B0A3C4">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1D1C25?style=flat-square&logo=vite&logoColor=B0A3C4">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-1D1C25?style=flat-square&logo=tailwindcss&logoColor=B0A3C4">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1D1C25?style=flat-square&logo=supabase&logoColor=B0A3C4">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1D1C25?style=flat-square&logo=postgresql&logoColor=B0A3C4">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1D1C25?style=flat-square&logo=vercel&logoColor=B0A3C4">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1D1C25?style=flat-square&logo=githubactions&logoColor=B0A3C4">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1D1C25?style=flat-square&logo=linux&logoColor=B0A3C4">
 </p>
 
 ## What I Am Practicing
