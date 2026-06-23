@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="hecz.dev — practical tools, secure systems, honest craft" width="100%" />
+  <img src="./assets/profile-banner.png" alt="hecz.dev — Developer. Creator. Problem Solver." width="100%" />
 </p>
 
 <p align="center">
