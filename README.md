@@ -20,16 +20,9 @@
 
 ## About Me
 
-I am moving from client operations, support, and sales leadership into cybersecurity and secure systems. That shift feels natural to me: I have been jailbreaking, rooting, and poking at phones since I was 12, trying to understand what was happening underneath the interface.
+I am moving from client operations, support, and sales leadership into cybersecurity and secure systems. That shift feels natural to me: I have been jailbreaking, rooting, and poking at phones and consoles since I was a kid — flashing custom ROMs on my old HTC, trying to understand what was happening underneath the interface.
 
 Right now I am focused on building a public body of work that shows how I think: clear READMEs, safe demos, practical tooling, lab notes, and projects that connect security with real users.
-
-```text
-current path:  Per Scholas cybersecurity track
-background:    client ops, sales leadership, support, automation
-building:      secure apps, AI tools, dashboards, cybersecurity labs
-interests:     web security, Linux, networking, auth, privacy, useful automation
-```
 
 ## Featured Work
 
